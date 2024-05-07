@@ -1,4 +1,4 @@
-# DeepLabv3Plus-Pytorch
+# DeepLabV3Plus-Pytorch
 
 DeepLabv3, DeepLabv3+ with pretrained models for Cityscapes.
 
