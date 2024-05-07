@@ -66,7 +66,7 @@ validation: 1024x2048
 | DeepLabV3Plus-ResNet101   | 16      |  N/A      |  16/16   |  0.762  |    [Download](https://drive.google.com/file/d/1t7TC8mxQaFECt4jutdq_NMnWxdm6B-Nb/view?usp=sharing) | [Comming Soon]()
 
 
-#### GradCaAM Results on EMarg (DeepLabv3Plus-MobileNet)
+#### GradCAM Results on EMarg (DeepLabv3Plus-MobileNet/ResNet-101)
 ![PE-BR-80437-23_1](https://github.com/shubhampundhir/dlv3plus_binaryClf_VideoAnalytics/assets/56575094/e84fa921-99b7-4862-86cf-bb68889e630b)
 ![PE-BR-80437-23_1_overlay](https://github.com/shubhampundhir/dlv3plus_binaryClf_VideoAnalytics/assets/56575094/7465a495-8bf7-4aa3-af70-cdfd778923f5)
 ![PE-GJ-80847-10_2](https://github.com/shubhampundhir/dlv3plus_binaryClf_VideoAnalytics/assets/56575094/61ff226b-950a-462e-830a-17a97088ff30)
