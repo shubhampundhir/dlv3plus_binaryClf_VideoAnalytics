@@ -5,7 +5,7 @@ We have used Segmentation Backbone of DeepLabv3+ model pre-trained on eMARG-15k(
 ## Quick Start 
 ## Architecture of DeeplabV3+ Fine-tuned for Binary Classification.
 <p float="left">
- <img src="BinaryClf_model/binary_clf.png" alt="Image" width="600" />
+ <img src="images/binary_clf.png" alt="Image" width="600" />
   
 </p>
 
@@ -53,10 +53,10 @@ validation: 512x384
 ## GradCAM Results on eMARG (DeepLabv3Plus-MobileNet/ResNet-101)
 
 <p float="left">
-  <img src="gradcam_results/PE-GJ-84921-20_2.jpg" alt="Image" width="300" />
-  <img src="gradcam_results/PE-GJ-84921-20_2_overlay.jpg" width="300" /> 
-  <img src="gradcam_results/PE-GJ-85702-59_2.jpg" width="300" />
-  <img src="gradcam_results/PE-GJ-85702-59_2_overlay.jpg" width="300" />
+  <img src="images/PE-GJ-84921-20_2.jpg" alt="Image" width="300" />
+  <img src="images/PE-GJ-84921-20_2_overlay.jpg" width="300" /> 
+  <img src="images/PE-GJ-85702-59_2.jpg" width="300" />
+  <img src="images/PE-GJ-85702-59_2_overlay.jpg" width="300" />
   
 </p>
 
