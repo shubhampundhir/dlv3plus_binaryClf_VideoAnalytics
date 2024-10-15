@@ -1,4 +1,4 @@
-# DeepLabV3Plus-Pytorch
+# Video Classification on Indian-Roads using DeepLabV3Plus-Pytorch
 
 We have used Segmentation Backbone of DeepLabv3+ model pre-trained on eMARG-15k(Good/Bad) and extended it for Binary Classification by adding simple Conv + FC layer combination layers. 
 
